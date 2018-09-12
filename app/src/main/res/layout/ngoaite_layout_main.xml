@@ -6,8 +6,4 @@
         android:id="@+id/lv_ngoaite"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"></ListView>
-    <TextView
-        android:text="da chuyen thang cong"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
 </android.support.constraint.ConstraintLayout>
